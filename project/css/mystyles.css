@@ -1,0 +1,61 @@
+textarea {
+  background: url(http://i.imgur.com/2cOaJ.png);
+  background-attachment: local;
+  background-repeat: no-repeat;
+  padding-left: 35px;
+  padding-top: 10px;
+  border-color: #ccc;
+  font-size: 21px;
+  line-height: 16px;
+}
+
+.plainstyle {
+   background: #f4f4f4;
+    border: 1px solid #ddd;
+    color: #666;
+    font: normal normal 14px/16px "Courier New",Courier,Monospace;
+    padding: .2em .2em;
+
+}
+
+.textarea-wrapper {
+  display: inline-block;
+  background-image: linear-gradient(#F1F1F1 50%, #F9F9F9 50%);
+  background-size: 100% 32px;
+  background-position: left 10px;
+}
+
+.display_res {
+  padding-left: 4%;
+  width: auto;
+
+}
+.wrapper {
+    text-align: center;
+}
+
+pre:hover,
+pre:focus {
+    /* what ever action */
+    /* this is just example */
+    border-left: 3px solid #f36d33;
+}
+
+
+.dali{
+  margin-right: 50%;
+  background-color: #374150;
+  border-radius: 50px;
+  width: 64px;
+}
+
+.dali2{
+  min-width: 2rem;
+}
+.pddtop{
+  padding-top: 2%;
+}
+
+.alerts{
+  width: max-content;
+}
